@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-hosts",
+  "versions": [
+    {
+      "commit": "e538c46a9f0746a7bf00d78379dcc12c04b8aa03",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:23:04.028461+00:00"
+    }
+  ]
+}
