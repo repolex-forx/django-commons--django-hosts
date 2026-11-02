@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-hosts/commit/e538c46a9f0746a7bf00d78379dcc12c04b8aa03",
       "git:hexsha": "e538c46a9f0746a7bf00d78379dcc12c04b8aa03",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T18:23:03.993650+00:00"
     },
     {
       "@id": "https://repolex.ai/r/django-commons/django-hosts/commit/a464d955c62f84326cb9528bd408350e53670fd7",
